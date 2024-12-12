@@ -41,7 +41,6 @@ A dedicated researcher and developer specializing in **Machine Learning**, **Nat
 - Automated administrative workflows to improve operational efficiency.  
 - Oversaw server rooms and workstations to ensure seamless operation for educational and research purposes.  
 - Actively contributed to research initiatives and participated in the NetMob 2023 Data Challenge.
-- Teaching: Computer Vision, Machine Learning, 3D computer Graphics
 
 #### Samsung Innovation Campus (2023 – 2024)  
 - Conducted two program batches focusing on the Internet of Things (IoT).  
@@ -52,7 +51,7 @@ A dedicated researcher and developer specializing in **Machine Learning**, **Nat
 ### Research and Development Intern
 
 #### RIKEN, Kobe, Japan (2025)  
-- Engaged in an intensive R&D internship from January 10 to March 24, 2025.  
+- Will be engage in R&D internship from January 10 to March 24, 2025.  
 - Focused on data compression methodologies optimized for High-Performance Computing (HPC) environments.
 
 ---
@@ -65,6 +64,18 @@ A dedicated researcher and developer specializing in **Machine Learning**, **Nat
 - Using knowledge graphs to enhance the effectiveness and scalability of LLM-based solutions.  
 - Managing and maintaining server rooms and workstations for computational experiments.  
 
+##### Leadership and Academic Contributions  
+- **Chair of Parallel Session:**  
+  - 2024 IEEE International Conference on Future Machine Learning and Data Science (FMLDS).  
+
+- **Reviewer Roles:**  
+  - Neural Computing and Applications (2024).  
+  - NILES Conference (2024).  
+  - Nile University Undergraduate Research Forum (2023, 2024).  
+
+- **Seminars and Workshops:**  
+  - Delivered workshops on using LaTeX for thesis writing, including graphing, equations, and presentations.  
+  - Spoke on AI trends and developments during a panel hosted by DeepLearning.AI.
 
 ---
 
@@ -146,6 +157,13 @@ A dedicated researcher and developer specializing in **Machine Learning**, **Nat
 
 ---
 
+## Research Interests
+
+- Machine Learning Optimization.  
+- Medical Image Analysis.  
+- Natural Language Processing and Large Language Models.  
+- High-Performance Computing.
+---
 
 ## Skills
 
@@ -190,28 +208,3 @@ A dedicated researcher and developer specializing in **Machine Learning**, **Nat
   [Certificate Link](https://graduation.udacity.com/confirm/WSJZLPAG).  
 
 [View Full Certification List](https://github.com/mina98/Certificates).
-
----
-
-## Academic Service
-
-- **Chair of Parallel Session:**  
-  2024 IEEE International Conference on Future Machine Learning and Data Science (FMLDS).  
-
-- **Reviewer:**  
-  - Neural Computing and Applications (2024).  
-  - NILES Conference (2024).  
-  - Nile University Undergraduate Research Forum (2023, 2024).  
-
-- **Seminars & Workshops:**  
-  - Delivered workshops on LaTeX and thesis writing at Nile University.  
-  - Spoke on AI trends in a panel hosted by DeepLearning.AI at Nile University.
-
----
-
-## Research Interests
-
-- Machine Learning Optimization.  
-- Medical Image Analysis.  
-- Natural Language Processing and Large Language Models.  
-- High-Performance Computing.
