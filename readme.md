@@ -13,7 +13,7 @@ A dedicated researcher and developer specializing in **Machine Learning**, **Nat
 
 ---
 
-## Education
+# Education
 
 - **Master’s in Informatics** (Present)  
   Nile University (2023 – 2025)     
@@ -27,30 +27,73 @@ A dedicated researcher and developer specializing in **Machine Learning**, **Nat
 - **RIKEN International HPC Summer School**  
   IHPCSS, RIKEN, Japan. September 2-4/9-10, 2024, Online.  
   Focused on High-Performance Computing and its applications.
-
 ---
+
+# Experience
 
 ## Academic Experience
 
-### Research and Development Intern  
-**RIKEN, Kobe, Japan** (2025)  
-- Conducted R&D from January 10 to March 24, 2025.  
-- Focused on data compression with High-Performance Computing (HPC).
+### Teaching Experience
 
-### Research Assistant  
-**Nile University** (2024 – Present)  
-- Conducting research on Large Language Models (LLMs).  
-- Managing server rooms and workstations to support computational experiments.  
+#### Nile University (2023 – 2024)  
+- Delivered courses in Artificial Intelligence, including Machine Intelligence, Computer Vision, and 3D Computer Graphics.  
+- Participated in quality accreditation activities to enhance the academic standards of the institution.  
+- Automated administrative workflows to improve operational efficiency.  
+- Oversaw server rooms and workstations to ensure seamless operation for educational and research purposes.  
+- Actively contributed to research initiatives and participated in the NetMob 2023 Data Challenge.
+- Teaching: Computer Vision, Machine Learning, 3D computer Graphics
 
-### Teaching Assistant and Researcher  
-**Nile University** (2023 – 2024)  
-- Taught courses in Artificial Intelligence, including Machine Intelligence, Computer Vision, and 3D Computer Graphics.  
-- Assisted in quality accreditation activities at Nile University.  
-- Automated administrative tasks to improve efficiency.  
-- Managed server rooms and workstations effectively.  
+#### Samsung Innovation Campus (2023 – 2024)  
+- Conducted two program batches focusing on the Internet of Things (IoT).  
+- Delivered training on Linux, Data Visualization, and Networking topics.  
+
+---
+
+### Research and Development Intern
+
+#### RIKEN, Kobe, Japan (2025)  
+- Engaged in an intensive R&D internship from January 10 to March 24, 2025.  
+- Focused on data compression methodologies optimized for High-Performance Computing (HPC) environments.
+
+---
+
+### Research Experience
+
+#### Nile University (2024 – Present)  
+- Conducting advanced research on Large Language Models (LLMs) with a focus on educational applications.  
+- Optimizing LLMs for environments with limited computational resources.  
+- Using knowledge graphs to enhance the effectiveness and scalability of LLM-based solutions.  
+- Managing and maintaining server rooms and workstations for computational experiments.  
 
 
 ---
+
+## Industry Experience
+
+### Freelance Software Engineering (2022 – 2023)
+- Developed web applications using Django and FastAPI frameworks.  
+- Managed deployment on Linux servers.  
+- Refactored legacy databases and integrated modern API solutions.
+
+### SQL & Power BI Developer, Airliquide (2022 – 2023)
+- Built real-time data analysis pipelines using SSIS, SQL, and Power BI.  
+- Automated dashboards and conducted advanced statistical analysis with DAX.
+
+### Vulnerability Management Specialist, Airliquide (2020 – 2022)
+- Conducted vulnerability assessments and implemented patch management solutions.  
+- Ensured server integrity by monitoring system health and resolving security issues.
+
+### Vulnerability Management and Patching Specialist, Accsight Company (2022 – Present)
+- Conducted vulnerability assessments and implemented patch management solutions.  
+- Managing and addressing vulnerabilities across various servers, including conducting thorough vulnerability assessments using nessus.
+- Managing Servers, Printer, Laptops and Handling IT problems.
+
+### Software Engineer, Karmina Company (2018 – 2019)
+- Designed and developed security projects in C#.  
+- Built scalable websites using Django REST framework, HTML, and JavaScript.
+
+---
+
 ## Key Publications
 
 ### Papers
@@ -112,33 +155,7 @@ A dedicated researcher and developer specializing in **Machine Learning**, **Nat
 - **Specialized Areas:** Machine Learning, Deep Learning, NLP, Vision-Language Models, High-Performance Computing (HPC).  
 - **Other Tools:** LaTeX, Bash scripting.  
 
----
-
-## Industry Experience
-
-### Freelance Software Engineering (2022 – Present)
-- Developed web applications using Django and FastAPI frameworks.  
-- Managed deployment on Linux servers.  
-- Refactored legacy databases and integrated modern API solutions.
-
-### SQL & Power BI Developer, Airliquide (2022 – 2023)
-- Built real-time data analysis pipelines using SSIS, SQL, and Power BI.  
-- Automated dashboards and conducted advanced statistical analysis with DAX.
-
-### Vulnerability Management Specialist, Airliquide (2020 – 2022)
-- Conducted vulnerability assessments and implemented patch management solutions.  
-- Ensured server integrity by monitoring system health and resolving security issues.
-
-### Vulnerability Management and Patching Specialist, Accsight Company (2022 – Present)
-- Conducted vulnerability assessments and implemented patch management solutions.  
-- Managing and addressing vulnerabilities across various servers, including conducting thorough vulnerability assessments using nessus.
-- Managing Servers, Printer, Laptops and Handling IT problems.
-
-### Software Engineer, Karmina Company (2018 – 2019)
-- Designed and developed security projects in C#.  
-- Built scalable websites using Django REST framework, HTML, and JavaScript.
-
----
+----
 
 ## Research Projects
 
